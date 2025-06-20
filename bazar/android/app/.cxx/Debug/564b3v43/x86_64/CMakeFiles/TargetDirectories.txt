@@ -1,0 +1,2 @@
+D:/Client/bazar/android/app/.cxx/Debug/564b3v43/x86_64/CMakeFiles/edit_cache.dir
+D:/Client/bazar/android/app/.cxx/Debug/564b3v43/x86_64/CMakeFiles/rebuild_cache.dir
